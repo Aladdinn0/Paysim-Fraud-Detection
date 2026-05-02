@@ -1,2 +1,1 @@
-Original file size is ~500MB, so I can not upload here.
-You can find on [Kaggle/PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1)
+The original file size is about 500 MB, so I can’t upload it here. You can find it on[Kaggle/PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1)
